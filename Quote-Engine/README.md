@@ -1,11 +1,11 @@
 
-### Javascript Practice - Quote Engine
+## Javascript Practice - Quote Engine
 
 This project is to practice JavaScript skills. It displays quotes from a diverse source of famous figures each time a button is clicked. 
 It covers basic JavaScript syntax like variables, loops, and object literals, in addition to augment with HTML and CSS components. 
 
 
-# Steps
+## Steps
 
 ### Create Array of Objects
 - Array of objects is named quotes
